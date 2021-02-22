@@ -1,0 +1,7 @@
+.listNavigation {
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+}
