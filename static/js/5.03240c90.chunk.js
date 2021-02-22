@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-08-phonebookhook"]=this["webpackJsonpgoit-react-hw-08-phonebookhook"]||[]).push([[5],{147:function(o,e,t){o.exports={homePage:"homePage_homePage__2gkep"}},169:function(o,e,t){"use strict";t.r(e);t(0);var a=t(147),h=t.n(a),n=t(133),s=t(2);e.default=function(){return Object(s.jsx)(n.a,{variant:"h4",className:h.a.homePage,children:"Use our service to store your phone contacts"})}}}]);
+//# sourceMappingURL=5.03240c90.chunk.js.map
